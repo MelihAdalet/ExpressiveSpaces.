@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Backup Main Test",
+  "description": "A premium Material 3 Expressive CMS with immersive authoring, dynamic physics-based interactions, and persistent storage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
